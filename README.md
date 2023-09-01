@@ -16,7 +16,7 @@ An overview of existing TON projects can be found in [TON Ecosystem map](https:/
 
 On our [Questbook page](), you'll find both a comprehensive list of submitted grant proposals and a form to submit your own application. Please review the [grant program guidelines](/grants/GRANT_PROGRAM_GUIDELINES.md) thoroughly before submitting your proposal.
 
-Learn more about an approved [grant project lifecycle]() in grant program.
+Learn more about an approved [grant project lifecycle](/grants/GRANT_PROGRAM_PROJECT_LIFECYCLE.md) in grant program.
 
 
 ## **Bounty program**
