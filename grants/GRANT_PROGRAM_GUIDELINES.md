@@ -15,6 +15,7 @@ Generally, your project will have better chances to be accepted if:
 - You can clearly present how your project stands out among competitors or implements technology that doesn't exist in the ecosystem yet.
 
 ## Areas of interests
+An overview of existing TON projects can be found in [TON Ecosystem map](https://github.com/ton-society/ecosytem-map)
 
 ### Infrastructure [WIP]
 
@@ -36,12 +37,10 @@ Generally, your project will have better chances to be accepted if:
 - HTML5 Engines Support (we need a partner ready to work on Cocos2d support for TON libraries and tools) – maybe John can help with that
 - Meta transactions, account abstraction, gasless onboarding (Solana metaplex?
   
-</br></br>
+</br>
 **❗️ Note**</br>
 Full-fledged games are not supported via our general grant program. We've tailored a specific [GameFi](ton.org/gamefi) center providing technical support, marketing aid, and even investment opportunities. From weekly calls to help with game integration to social media boosts at launch, and scaling through Telegram Ad Grants—our support is comprehensive.
 </br>
-
-An overview of existing TON projects can be found in [TON Ecosystem map](https://github.com/ton-society/ecosytem-map)
 
 ## Grant project requirements
 
