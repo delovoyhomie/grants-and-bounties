@@ -35,7 +35,8 @@ Generally, your project will have better chances to be accepted if:
 - NFT Lending (e.g., nftfi.com) (we already have Daolama, but would be great to help them with liquidity or attract one of big players) 
 - HTML5 Engines Support (we need a partner ready to work on Cocos2d support for TON libraries and tools) – maybe John can help with that
 - Meta transactions, account abstraction, gasless onboarding (Solana metaplex?
-❗️ Note
+</br></br>
+❗️ Note</br>
 Full-fledged games are not supported via our general grant program. We've tailored a specific [GameFi](ton.org/gamefi) center providing technical support, marketing aid, and even investment opportunities. From weekly calls to help with game integration to social media boosts at launch, and scaling through Telegram Ad Grants—our support is comprehensive.
 
 
