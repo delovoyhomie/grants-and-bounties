@@ -25,9 +25,9 @@ Learn more about an approved [grant project lifecycle](/grants/GRANT_PROGRAM_PRO
 [**🗺️ TON Ecosystem map**](https://github.com/ton-society/ecosytem-map) - an overview of existing TON projects</br>
 [**🎯 Areas of interest**](grants/GRANT_PROGRAM_GUIDELINES.md#areas-of-interests) - a list of categories and types of projects we would potentially be interested in funding
 
-[Grant program guidelines](/grants/GRANT_PROGRAM_GUIDELINES.md) - please thoroughly review before submitting your proposal</br>
-[Grant project lifecycle](/grants/GRANT_PROGRAM_PROJECT_LIFECYCLE.md) - learn more about an approved grant project lifecycle</br>
-[Questbook page](https://questbook.app/dashboard/?grantId=0xe92b011b2ecb97dbe168c802d582037e28036f9b&chainId=10) - a comprehensive list of submitted grant proposals and a form to submit your own application
+[**📚 Grant program guidelines**](/grants/GRANT_PROGRAM_GUIDELINES.md) - please thoroughly review before submitting your proposal</br>
+[**🔄 Grant project lifecycle**](/grants/GRANT_PROGRAM_PROJECT_LIFECYCLE.md) - learn more about an approved grant project lifecycle</br>
+[**📝 Questbook page**](https://questbook.app/dashboard/?grantId=0xe92b011b2ecb97dbe168c802d582037e28036f9b&chainId=10) - a comprehensive list of submitted grant proposals and a form to submit your own application
 
 ## **Bounty program**
 
