@@ -1,5 +1,8 @@
+<a href="https://ton.org/">
+	<img width="100%" src="https://i.ibb.co/hX1ffrr/Screenshot-2023-09-01-at-01-57-29.png" alt="TON Ecosystem" />
+</a>
 
-### Hall of Fame
+# Hall of Fame
 | Name | Task | Link |
 |------|------|------|
 | [Revuza](https://github.com/LevZed), [Gusarich](https://github.com/Gusarich)   | Examples: How to receive payments in a Telegram bot  | [Issue](https://github.com/ton-society/ton-footsteps/issues/8)     |
