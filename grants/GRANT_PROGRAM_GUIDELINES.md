@@ -38,7 +38,8 @@ An overview of existing TON projects can be found in [TON Ecosystem map](https:/
 - Meta transactions, account abstraction, gasless onboarding (Solana metaplex?
   
 </br>
-**❗️ Note** </br>
+**❗️Note**
+</br>
 Full-fledged games are not supported via our general grant program. We've tailored a specific [GameFi](ton.org/gamefi) center providing technical support, marketing aid, and even investment opportunities. From weekly calls to help with game integration to social media boosts at launch, and scaling through Telegram Ad Grants—our support is comprehensive.
 </br>
 
