@@ -29,6 +29,8 @@ Learn more about an approved [grant project lifecycle](/grants/GRANT_PROGRAM_PRO
 [**🔄 Grant project lifecycle**](/grants/GRANT_PROGRAM_PROJECT_LIFECYCLE.md) - learn more about an approved grant project lifecycle</br>
 [**📝 Questbook page**](https://questbook.app/dashboard/?grantId=0xe92b011b2ecb97dbe168c802d582037e28036f9b&chainId=10) - a comprehensive list of submitted grant proposals and a form to submit your own application
 
+TODO: Add comments about gaming! Since most of the games won't be matter to a grant program
+
 ## **Bounty program**
 
 Our bounty program is an open community initiative that is fast-forwarding support for valuable contributions:
