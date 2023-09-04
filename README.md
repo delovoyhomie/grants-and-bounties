@@ -38,6 +38,8 @@ There are 2 ways to participate in Bounties program:
 **❗️Note about Dev Tooling category**
 Development of smartcontracts that have hign demand and can be reused by numerous teams and developers are eligible for the Dev Tooling category. 
 
+TODO:
+- Find a proper place to add links to Questbook dedicated program for categories
 
 ### Hall of fame
 
