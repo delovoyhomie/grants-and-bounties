@@ -36,7 +36,7 @@ Projects that align with the following priority categories have an increased lik
 
 ### Infrastructure [WIP]
 
-- Web IDE (we have https://nujan.io/, but we need some one else)
+- Web IDE
 - API Provider (for GraphQL & Event Streaming)
 - Web3 OAuth 
 - Nodes Healthcheck & Monitoring
@@ -47,10 +47,6 @@ Projects that align with the following priority categories have an increased lik
 [WIP]
 
 ### GameFi [WIP]
-❗️Note
-</br>
-Full-fledged games are not supported via our general grant program. We've tailored a specific [GameFi](ton.org/gamefi) center providing technical support, marketing aid, and even investment opportunities. From weekly calls to help with game integration to social media boosts at launch, and scaling through Telegram Ad Grants—our support is comprehensive.
-</br>
 - Scolarship (e.g., YGG)
 - Rarity tools (e.g., rarity.tools)
 - NFT Lending (e.g., nftfi.com) (we already have Daolama, but would be great to help them with liquidity or attract one of big players) 
