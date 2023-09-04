@@ -1,47 +1,33 @@
 name: Education materials
-description: Suggest a new TON Footstep 8889
-labels: 'footstep'
+description: Suggest educational materials to be created/improved.
+labels: 'Education materials'
 body:
   - type: markdown
     attributes:
       value: |
-        Thank you for stepping up to improve TON Ecosystem.
-
-        Create issue with this template to suggest a new Footstep.
+        Thank you for stepping up to improve TON Ecosystem!
   - type: textarea
     attributes:
       label: "Summary"
-      description: "Short summary of what Footstep is about."
-      placeholder: "This proposal describes what we need to launch a workflow of the TON Footsteps."
+      description: "Short summary of what kind of materials should be created/improved."
     validations:
       required: True
   - type: textarea
     attributes:
       label: "Context"
-      description: "Provide some information required to understand why this Footstep needs to be taken."
-      placeholder: "We want to suggest a public list of the projects and/or actions, which can be taken to improve TON Ecosystem. This is required to attract independent builders to TON."
-    validations:
-      required: False
-  - type: textarea
-    attributes:
-      label: "Goals"
-      placeholder: |
-        * Provide a workflow to improve the TON ecosystem (articles, docs, tutorials, tools, etc.) by the community
+      description: "Provide some information required to understand why materials should be created/improved."
     validations:
       required: True
   - type: textarea
     attributes:
-      label: "Deliverables"
-      description: 'List deliverables which are assumed by the Footstep.'
-      placeholder: |
-        * The list of the TON Footsteps
+      label: "Learning goals"
+      description: "What are the main things consumers of this materials will learn?"
     validations:
       required: True
   - type: textarea
     attributes:
-      label: "Definition of Done"
-      placeholder: "
-        - [ ] Repository created"
+      label: "References"
+      description: "Provide links to resources similar in their contents or format"
     validations:
       required: True
   - type: textarea
