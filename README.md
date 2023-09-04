@@ -33,7 +33,7 @@ Our Bounties program is an open community initiative that is fast-forwarding sup
 There are 2 ways to participate in Bounties program:
 
 1. **Execute a bounty tasks.** [Explore approved suggestions](https://github.com/marktoncontest/grants-and-bounties/issues) that need of execution and get a reward for successful implementation.
-2. **Propose a bounty task.** [Publish your suggestion](), and if the community deems it valuable, we'll connect it with a  community member willing to execute it. Upon completion, we'll provide the necessary funding as a reward.
+2. **Propose a bounty task.** [Publish your suggestion](https://github.com/marktoncontest/grants-and-bounties/issues/new/choose), and if the community deems it valuable, we'll connect it with a  community member willing to execute it. Upon completion, we'll provide the necessary funding as a reward.
 
 **❗️Note about Dev Tooling category**
 Development of smartcontracts that have hign demand and can be reused by numerous teams and developers are eligible for the Dev Tooling category. 
