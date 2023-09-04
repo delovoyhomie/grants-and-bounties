@@ -2,7 +2,7 @@
 	<img width="100%" src="/assets/thin-header.png" alt="TON Ecosystem" />
 </a>
 
-# Bounty program guidelines
+# Bounties program guidelines
 
 ### How to propose something to the list?
 **Ideation Stage**
