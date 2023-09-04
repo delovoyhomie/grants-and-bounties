@@ -1,5 +1,5 @@
 name: Footstep
-description: Suggest a new TON Footstep
+description: Suggest a new TON Footstep 8889
 labels: 'footstep'
 body:
   - type: markdown
