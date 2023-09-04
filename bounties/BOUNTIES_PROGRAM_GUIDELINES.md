@@ -4,6 +4,10 @@
 
 # Bounties program guidelines
 
+- How to propose something to the list?
+- How to complete something from the list?
+- Describing flow Questbook
+
 ### How to propose something to the list?
 **Ideation Stage**
 1. Open a [**Footstep issue**](https://github.com/ton-society/ton-footsteps/issues/new?assignees=&labels=footstep&template=Footstep.yaml). Name it using the name of your proposal.
