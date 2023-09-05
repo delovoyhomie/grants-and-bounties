@@ -16,7 +16,7 @@ Our grants program is dedicated to support teams and projects that build full-fl
 
 An overview of existing TON projects can be found in [TON Ecosystem map](https://github.com/ton-society/ecosytem-map). You might be also interested to get familiar with our [areas of interest](grants/GRANT_PROGRAM_GUIDELINES.md#areas-of-interests) - list of categories and types of projects we would potentially be interested in providing grant support to.
 
-On our [Questbook page](https://questbook.app/dashboard/?grantId=0xe92b011b2ecb97dbe168c802d582037e28036f9b&chainId=10), you'll find both a comprehensive list of submitted grant proposals and a form to [submit your own application](). Please review the [grant program guidelines](/grants/GRANT_PROGRAM_GUIDELINES.md) thoroughly before submitting your proposal.
+On our [Questbook page](https://questbook.app/dashboard/?grantId=0xe92b011b2ecb97dbe168c802d582037e28036f9b&chainId=10), you'll find both a comprehensive list of submitted grant proposals and a form to [**submit your own application**](https://questbook.app/proposal_form/?grantId=0xe92b011b2ecb97dbe168c802d582037e28036f9b&chainId=10&newTab=true). Please review the [grant program guidelines](/grants/GRANT_PROGRAM_GUIDELINES.md) thoroughly before submitting your proposal.
 
 To better understand the process behind Grants program - learn more about [grant proposal lifecycle](/grants/GRANT_PROGRAM_PROJECT_LIFECYCLE.md).
 
