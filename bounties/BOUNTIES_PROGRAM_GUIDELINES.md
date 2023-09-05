@@ -37,31 +37,29 @@
 
 After successfully creating an issue on GitHub, you can submit an application to have your idea or task included in QuestBook. This is the next step to participate in the TON Bounties program.
 
-### Step 1: Open a QuestBook Issue**
+**Step 1: Open a QuestBook Issue**
 
 1. Go to the [QuestBook page](QuestBook link).
 2. Choose the "TON Bounties" Tab from TON Foundation.
 
-### Step 2: Fill Out the Application**
+**Step 2: Fill Out the Application**
 
 1. Enter a title for your bounty task that reflects its essence.
 2. In the "Details" section, provide a detailed description of your task or idea. Make sure you have provided all the necessary information and context for understanding the task.
 3. If you have any additional materials, such as images, documents, or links, attach them to the bounty.
 
-### Step 3: Submit the Application**
+**Step 3: Submit the Application**
 
 1. After filling in all the required fields, scroll down the page.
 2. Click the "Submit Proposal" button to submit your application to QuestBook.
 
-### Step 4: Await Review**
+**Step 4: Await Review**
 
 1. Your application will be reviewed by community members and the [TON Bounties Committee](link).
 2. You can expect comments, discussions, and suggestions on your task in the same bounty in the github issue.
 
-That's it! You have now submitted an application to QuestBook and can monitor its progress and discussions on GitHub. 
+That's it! You have now submitted an application to QuestBook and can monitor its progress and discussions on GitHub. Thank you for your activity and participation in the TON Bounties program!
 
-**It's worth pay attention**
+## It's worth pay attention
 - Remember to provide interim progress reports in the issue comments.
 - When milestones are achieved, mark the checkboxes in the **Deliverables** as completed.
-
-Thank you for your activity and participation in the TON Bounties program!
