@@ -39,7 +39,6 @@ Learn more about the process on [Bounties Program Guidelines](bounties/BOUNTIES_
 Development of smartcontracts that have hign demand and can be reused by numerous teams and developers are eligible for the Dev Tooling category. 
 
 
-
 ### Hall of fame
 
 We truly appreciate our community contributors. As a token of our gratitude, bounties program contributors receive a spot in the [**Hall of Fame**](/bounties/HALL_OF_FAME.md) and an exclusive TON Footsteps SBT. 
